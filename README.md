@@ -8,14 +8,15 @@ An early, independently developed Laravel prototype for browsing digital solutio
 - Browse a problem, then its solutions, then linked products/services
 - Client-side tag filtering without reloading the page
 - Create, read, update, and delete business problems
+- Create, read, update, and delete solutions
+- Create, read, update, and delete products/services
 - SQLite database with the `consult_` table prefix
 - Automated test for problem management
 
 ## Still outside this checkpoint
 
-- Managing solutions, products, and tags in the user interface
+- Standalone tag management
 - KPI recommendation and case recording
-- Full catalogue administration
 
 ## Run
 
